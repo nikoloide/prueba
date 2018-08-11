@@ -1,16 +1,7 @@
- {
-  "name": "my-trips",
-  "version": "0.1.0",
-  "private": true,
-  "devDependencies": {
-    "react-scripts": "1.0.17"
-  },
-
+{
   "scripts": {
     "start": "webpack-dev-server --progress --hot --open"
-  ,
- 
-"homepage": "https://nikoloide.github.io/prueba",
+  },
   "dependencies": {
     "global": "^4.3.0",
     "kepler.gl": "^0.0.19",
@@ -34,3 +25,4 @@
     "webpack-dev-server": "^2.4.0"
   }
 }
+
