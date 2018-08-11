@@ -5,10 +5,10 @@
   "devDependencies": {
     "react-scripts": "1.0.17"
   },
-{
+
   "scripts": {
     "start": "webpack-dev-server --progress --hot --open"
-  },
+  ,
  
 "homepage": "https://nikoloide.github.io/prueba",
   "dependencies": {
